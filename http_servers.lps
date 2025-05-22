@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="http_servers.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="87" Y="17"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="http_server.pas"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="26" Y="21"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="27">
+      <Position>
+        <Filename Value="http_servers.lpr"/>
+        <Caret Line="4" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="8" Column="52"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="15"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="17" Column="59"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="31" Column="32"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="57" Column="7" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="16" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="24" Column="36"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="16" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="17" Column="50"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="8" Column="65"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="38" Column="37" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="8" Column="54"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="73" Column="18" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="8" Column="52"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="16" Column="60" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="28" Column="3" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="68" Column="3" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="http_servers.lpr"/>
+        <Caret Line="12" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="http_servers.lpr"/>
+        <Caret Line="11" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="21" Column="24" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="86" Column="3" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="88" Column="29" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="http_server.pas"/>
+        <Caret Line="21" Column="26"/>
+      </Position>
+      <Position>
+        <Filename Value="http_servers.lpr"/>
+        <Caret Line="9" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="http_servers.lpr"/>
+        <Caret Line="13" Column="25"/>
+      </Position>
+      <Position>
+        <Filename Value="http_servers.lpr"/>
+        <Caret Line="15" Column="35"/>
+      </Position>
+      <Position>
+        <Filename Value="http_servers.lpr"/>
+        <Caret Line="22" Column="5"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
