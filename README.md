@@ -4,6 +4,7 @@ This repository demonstrates how to create and use WebAssembly (`.wasm`) modules
 
 ## 📁 Project Structure
 
+```md
 ├── hello.pas # Free Pascal source code exporting a 'Hello World!' function
 ├── hello.wasm # Compiled WebAssembly binary
 ├── *.wasm     # |_  
@@ -14,3 +15,4 @@ This repository demonstrates how to create and use WebAssembly (`.wasm`) modules
 ├── index.html # Simple HTML page to load and run the WebAssembly
 ├── index.js # JavaScript loader for the WASM module
 └── README.md # This file
+```
