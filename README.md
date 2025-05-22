@@ -16,3 +16,23 @@ This repository demonstrates how to create and use WebAssembly (`.wasm`) modules
 ├── index.js # JavaScript loader for the WASM module
 └── README.md # This file
 ```
+## 🚀 Getting Started
+
+### 1. Compile the Pascal Code
+
+Make sure you have Free Pascal (with WebAssembly support) installed.
+
+Compile the Pascal source to WebAssembly:
+
+```bash
+ppcrosswasm32 -Twasi -ohello.wasm hello_wasm.pas
+```
+
+### 2. Compile the Pascal Code
+You need to serve these files over HTTP to load WebAssembly in the browser.
+
+
+## 🛠️ Author & License
+
+Created by herux.
+Licensed under the MIT License.
