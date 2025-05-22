@@ -28,9 +28,11 @@ Compile the Pascal source to WebAssembly:
 ppcrosswasm32 -Twasi -ohello.wasm hello_wasm.pas
 ```
 
-### 2. Compile the Pascal Code
+### 2. Serve the files
 You need to serve these files over HTTP to load WebAssembly in the browser.
-
+```bash
+fpc -ohttp_servers http_servers.lpr #and other options that may applied
+```
 
 ## 🛠️ Author & License
 
